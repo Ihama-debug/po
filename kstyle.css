@@ -1,0 +1,134 @@
+head {
+color: black;background-color: black;
+}
+
+body {
+    color: black;background-color: black;overflow-x: hidden;
+}
+
+.div1 {
+    width: 1920px;height: 80px;background-color: rgb(0, 0, 0);position: center;
+  }
+
+.h2 {
+    font-family: fa;font-size: 69px;color: aliceblue;margin-left: 1350px;
+}
+
+@font-face {
+    font-family: fa;
+    src: local("fa"),url(./fonts/fa.ttf) format("truetype")
+  }
+
+  @font-face {
+    font-family: na;
+    src: local("na"),url(./fonts/Nothing.ttf) format("truetype")
+  }
+
+.b2 {
+    font-family: fa;font-size: 65;color: aliceblue;margin-left: 200px;background-color: transparent;border: 0px;margin-top: -140px;
+}
+
+.b3 {
+    font-family: fa;font-size: 65px;color: aliceblue;margin-left: 390px;background-color: transparent;border: 0px;margin-top: -155px;
+}
+
+.b4 {
+    font-family: fa;font-size: 65px;color: aliceblue;margin-left: 650px;background-color: transparent;border: 0px;margin-top: -165px;
+}
+
+.dash {
+    margin-left: 10px;margin-right: 1px;margin-top: -120px;font-family: na;color: aliceblue;
+  }
+
+.flag1 {
+    margin-left: 110px;border-radius: 5px;width: 60px;height: 40px;margin-top: -115px;
+  }
+
+.h1 {
+    font-family: fa;font-size: 100px;color: aliceblue;margin-left: 900px;
+  }
+  
+.h12 {
+    font-family: fa;font-size: 80px;color: #688B53;margin-left: 970px;margin-top: -3%;
+  }
+
+  .h13 {
+    font-family: fa;font-size: 80px;color: #688B53;margin-left: 1200px;margin-top: -3%;
+  }
+
+  .img1 {
+    width: 504px;height: 509px;margin-left: 200px;margin-top: -30%;
+  }
+
+  .h131 {
+    margin-left: 1000px;color: aliceblue;font-family: fa;font-size: 121px;margin-top: -0px;
+  }
+
+  .h14 {
+    margin-left: 1100px;font-family: fa;color: aliceblue;font-size: 60px;margin-top: -20px;
+  }
+  
+  .img3 {
+    margin-left: 950px;width: 100px;height: 100px;margin-top: -130px;
+  }
+  
+  .h15 {
+    margin-left: 200px;font-family: fa;color: aliceblue;font-size: 60px;margin-top: -110px;
+  }
+  
+  .img4 {
+    margin-left: 80px;width: 100px;height: 80px;margin-top: -110px;
+  }
+  
+  .h16 {
+    margin-left: 1100px;font-family: fa;color: aliceblue;font-size: 60px;margin-top: 0px;
+  }
+  
+  .img5 {
+    margin-left: 970px;width: 75px;height: 100px;margin-top: -130px;
+  }
+  
+  .h17 {
+    margin-left: 220px;font-family: fa;color: aliceblue;font-size: 60px;margin-top: -120px;
+  }
+  
+  .img6 {
+    margin-left: 80px;width: 100px;height: 100px;margin-top: -110px;
+  }
+  
+  .void {
+    margin-left: 1000px;width: 430px;height: 250px;border-radius: 15px;margin-top: -1%;
+  }
+  
+  .python {
+    margin-left: 100px;width: 430px;height: 250px;border-radius: 15px;margin-top: -16.4%;
+  }
+
+  .div2 {
+    margin-left: 0px;margin-right: 90px;
+  }
+
+  .h111 {
+  font-family: fa;color: aliceblue;font-size: 80px;margin-left: 1000px;
+}
+
+.b11 {
+  background-color: rgb(41, 153, 45);height: 60px;width: 440px;border-radius: 5px;border: 0px;margin-left: 870px;
+}
+
+.b12 {
+  background-color: rgb(41, 153, 45);height: 60px;width: 440px;border-radius: 5px;border: 0px;margin-left: 870px;
+}
+
+.b13 {
+  background-color: rgb(127, 215, 130);height: 60px;width: 100px;border-radius: 5px;border: 0px;margin-left: 1100px;
+}
+
+::placeholder {
+  color: aliceblue;
+}
+
+.map {
+  margin-left: 50px;margin-top: -23%;
+}
+
